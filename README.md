@@ -15,5 +15,5 @@ Built with pure Java, this project demonstrates core Object-Oriented Programming
 • Polymorphism - Method overloading and overriding
 • Abstraction - Abstract Person class with abstract methods
 
-Perfect for learning Java OOP fundamentals and building a portfolio!
+
 
